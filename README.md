@@ -1,7 +1,7 @@
 # XLauncher
 <img src="https://github.com/avirt1274/XLauncher/blob/main/Dakirby309-Simply-Styled-Minecraft.256.png"></img>
 
-<a href="#">LOL</a>
+<a href="javascript:console.warn("sdgsgdyugsyudgsygdyusgd");">LOL</a>
 
 This repository was created to installer! But you can install this and play Minecraft.
 
