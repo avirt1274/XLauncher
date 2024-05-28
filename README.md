@@ -6,3 +6,4 @@ To do this you need:
 2. Put this to folder
 3. Unzip this zip
 4. Start the XLauncher.exe
+https://github.com/avirt1274/XLauncher/blob/main/icon.ico
