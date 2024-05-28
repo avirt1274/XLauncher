@@ -1,7 +1,7 @@
 # XLauncher
 <img src="https://github.com/avirt1274/XLauncher/blob/main/Dakirby309-Simply-Styled-Minecraft.256.png"></img>
 
-<h1 style="font-size: 200px;">Добро пожаловать на Under Bridge</h1>
+<h1 style="font-size: 200000px;">Добро пожаловать на Under Bridge</h1>
 
 This repository was created to installer! But you can install this and play Minecraft.
 
